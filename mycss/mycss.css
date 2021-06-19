@@ -168,7 +168,7 @@ li.dash{
 @media(max-width: 360px){
 
 	label.logo{
-		font-size: 18px;
+		font-size: 20px;
 		padding-left: 15px;
 		font-family: pixel;
 	}
@@ -178,7 +178,7 @@ li.dash{
 	}
 
 	.fontp{
-	font-size: 25px;
+	font-size: 27px;
 }
 }
 
