@@ -176,7 +176,7 @@ li.dash{
 @media(max-width: 412px){
 
 	.fontp{
-		font-size: 30px;
+		font-size: 31px;
 }
 
 
@@ -202,6 +202,13 @@ li.dash{
 		width: 100%;
 	  	height: 500px;
 }
+}
+
+@media(max-width: 286px){
+	.fontp{
+		font-size: 28px;
+}
+
 }
 
 
