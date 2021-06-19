@@ -165,10 +165,10 @@ li.dash{
 	}
 }
 
-@media(max-width: 410px){
+@media(max-width: 250px){
 
 	label.logo{
-		font-size: 25px;
+		font-size: 18px;
 		padding-left: 50px;
 		font-family: pixel;
 	}
@@ -178,7 +178,7 @@ li.dash{
 	}
 
 	.fontp{
-	font-size: 30px;
+	font-size: 20px;
 }
 }
 
