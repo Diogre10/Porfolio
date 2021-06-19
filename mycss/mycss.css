@@ -166,8 +166,19 @@ li.dash{
 }
 
 @media(max-width: ){
+
+	label.logo{
+		font-size: 25px;
+		padding-left: 50px;
+		font-family: pixel;
+	}
+	nav ul li a{
+		font-size: 16px;
+		font-family: pixel;
+	}
+
 	.fontp{
-	font-size: 25px;
+	font-size: 20px;
 }
 }
 
