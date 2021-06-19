@@ -135,6 +135,10 @@ li.dash{
 	.fontp{
 	font-size: 38px;
 }
+.me{
+	width: 100%;
+  	height: 500px;
+}
 
 
 
@@ -163,6 +167,10 @@ li.dash{
 	#check:checked ~ ul{
 		left: 0;
 	}
+	.me{
+	width: 100%;
+  	height: 500px;
+}
 }
 
 @media(max-width: 360px){
