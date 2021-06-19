@@ -133,7 +133,7 @@ li.dash{
 	}
 
 	.fontp{
-	font-size: 28px;
+	font-size: 38px;
 }
 
 
@@ -163,6 +163,12 @@ li.dash{
 	#check:checked ~ ul{
 		left: 0;
 	}
+}
+
+@media(max-width: ){
+	.fontp{
+	font-size: 25px;
+}
 }
 
 
