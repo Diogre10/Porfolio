@@ -110,6 +110,11 @@ li.dash{
 	color:black;
 }
 
+.yt{
+	width: 100%;
+	height: 750px;
+}
+
 
 @media(max-width: 925px){
 
@@ -202,6 +207,11 @@ li.dash{
 		width: 100%;
 	  	height: 500px;
 }
+	.yt{
+		width: 100%;
+		height: 400px;
+	}
+
 }
 
 @media(max-width: 286px){
